@@ -48,6 +48,12 @@ KNOWN_PLATFORMS = {
     "openai.com",
     # Major SaaS platforms — not outreach prospects
     "airtable.com", "notion.so",
+    "stripe.com", "shopify.com", "hubspot.com", "salesforce.com",
+    "mailchimp.com", "trello.com", "twilio.com", "typeform.com",
+    "webflow.com", "miro.com", "clearbit.com", "clickup.com",
+    "intercom.com", "calendly.com", "asana.com", "figma.com",
+    "framer.com", "zapier.com", "retool.com", "freshdesk.com",
+    "hostinger.com", "langchain.com",
 }
 
 # Parking / for-sale page signals
