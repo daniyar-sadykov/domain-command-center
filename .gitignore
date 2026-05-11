@@ -30,3 +30,7 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Trial task files — not for repo
+Technical Task.pdf
+job descr
